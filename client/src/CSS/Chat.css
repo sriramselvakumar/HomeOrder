@@ -1,0 +1,4 @@
+.flexible {
+  display: flex;
+  flex-direction: row;
+}
